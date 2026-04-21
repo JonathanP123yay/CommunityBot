@@ -29,7 +29,7 @@ export default {
   pants: '👖',
   torso: '🦴',
   profileTheme: '🎨',
-  gamePass: '🎮',
+  gamePass: '🎮💵',
   achievement: '🎖️',
   playing: '<:playing:1224251502848245872>',
   cobras: '<:cobras:1249630127042723894>',
